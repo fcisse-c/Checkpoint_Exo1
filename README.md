@@ -6,3 +6,8 @@
 
 [![Get-NetIPAdress](https://github.com/fcisse-c/Checkpoint_Exo1/blob/main/Get-NetIPAdress.png)
 
+
+2️⃣ Configure une adresse IP statique sur la carte réseau :
+[![Config_IP_statique](https://github.com/fcisse-c/Checkpoint_Exo1/blob/main/Config_IP_statique%20.png)
+
+3️⃣ Ajoute un serveur DNS personnalisé :
