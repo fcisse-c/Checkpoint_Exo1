@@ -11,3 +11,7 @@
 [![Config_IP_statique](https://github.com/fcisse-c/Checkpoint_Exo1/blob/main/Config_IP_statique%20.png)
 
 3️⃣ Ajoute un serveur DNS personnalisé :
+
+4️⃣ Crée un serveur DHCP sur Windows Server :
+
+5️⃣ Configure un scope DHCP :
